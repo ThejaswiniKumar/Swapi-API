@@ -1,0 +1,83 @@
+#header {
+	border: 1px bold black;
+	text-align: center;
+	height: 100px;
+    background: #BCCE98;
+    font-size: 28px;	
+
+}
+
+#header-content {
+	padding: 30px;
+}
+
+#title, #list_view, #detail_view{
+	font-size: 25px;
+	text-align: center;
+	color:black;
+	font-family: serif;
+
+}
+#first_section{
+	float: left;
+    width: 33.33%;
+	border: 1px bold black;
+	background: #DAE9BC;
+	height:650px;
+	color:darkgreen;
+}
+
+#people ,#planets, #starships, #species{
+	text-align: center;
+	font-size: 20px;
+}
+.sideBar:hover{
+	background-color: white;
+}
+.select {
+	  background: #BCCE98;	
+}
+
+#second_section{
+	float: left;
+    width: 33.33%;
+	height:650px;
+	border:1px bold black;
+	background: #F7FDEB;    
+	
+}
+#third_section{
+    float: left;
+    width: 33.33%;
+	height:650px;
+	border:1px bold black;
+	background-color: white;
+}
+
+.lst_items:hover{
+background-color: white;
+}
+
+.lst_items{
+	text-align: center;
+	font-size: 20px;
+	list-style: none;
+	font-style: normal;
+	color:darkgreen;
+	font-family: cursive;
+}
+.description{
+	background-color:  #BCCE98;
+}
+
+#details {
+	color:darkgreen;
+	list-style: none;
+	font-size: 20px;
+	font-family: serif;
+	text-align: center;
+}
+#container{
+    clear: both;
+}
+
